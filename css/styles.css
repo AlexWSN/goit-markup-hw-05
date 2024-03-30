@@ -524,8 +524,8 @@ ul {
 }
 
 .modal form {
-  width: 500px;
-  height: 50vh;
+  width: 250px;
+  height: 50vh; /* 50% din înălțimea vizualizării */
 }
 
 .modal-close-btn {
